@@ -1,0 +1,56 @@
+[
+ {
+  "id": "lsg",
+  "label": "LSG",
+  "name": "Louis Segond 1910",
+  "lang": "fr"
+ },
+ {
+  "id": "mar",
+  "label": "MARTIN",
+  "name": "Bible David Martin 1744",
+  "lang": "fr"
+ },
+ {
+  "id": "jnd",
+  "label": "DARBY",
+  "name": "Bible Darby (français) 1885",
+  "lang": "fr"
+ },
+ {
+  "id": "kjv",
+  "label": "KJV",
+  "name": "King James Version 1769",
+  "lang": "en"
+ },
+ {
+  "id": "asv",
+  "label": "ASV",
+  "name": "American Standard Version 1901",
+  "lang": "en"
+ },
+ {
+  "id": "nheb",
+  "label": "NHEB",
+  "name": "New Heart English Bible (WEB)",
+  "lang": "en"
+ },
+ {
+  "id": "dby",
+  "label": "DBY",
+  "name": "Darby Bible (English) 1889",
+  "lang": "en"
+ },
+ {
+  "id": "tr",
+  "label": "TR",
+  "name": "Grec · Textus Receptus",
+  "lang": "grc"
+ },
+ {
+  "id": "wlc",
+  "label": "WLC",
+  "name": "Hébreu · Westminster Leningrad Codex",
+  "lang": "heb"
+ }
+]
