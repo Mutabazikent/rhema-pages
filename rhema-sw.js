@@ -1,5 +1,5 @@
 // Service worker Rhema Bible : fonctionne hors ligne après la première visite.
-const VERSION = 'rhema-web-v1';
+const VERSION = 'rhema-web-v8';
 const SHELL = ['./', 'rhema.html', 'rhema.webmanifest', 'icon-192 2.png', 'icon-512 2.png', 'apple-touch-icon 2.png'];
 self.addEventListener('install', e => {
   e.waitUntil(caches.open(VERSION).then(c => c.addAll(SHELL)).then(() => self.skipWaiting()));
